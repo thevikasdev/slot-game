@@ -1,6 +1,6 @@
 # Slot Game Framework
 
-Small PixiJS v7 slot game framework built as a take-home assignment.
+Small PixiJS v7 slot game framework.
 
 ## Stack
 
